@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 2021_12_04_192104) do
     t.string "email"
     t.string "phone"
     t.string "twitter"
+    t.string "string"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
