@@ -1,24 +1,15 @@
-# README
+# Friends
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a tutorial project to demonstrate CRUD operations on Ruby on Rails!
 
-Things you may want to cover:
+You just have to Sign up, Log in and start managing your friends list and your profile.
 
-* Ruby version
+If you want to try it you should have:
 
-* System dependencies
+-RVM installed (https://rvm.io/rvm/install) for managing Ruby, Ruby on Rails install.
 
-* Configuration
+-Node.js (https://nodejs.org/es/).
 
-* Database creation
+-Yarn (https://yarnpkg.com/getting-started/install).
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-SQLite3 (https://www.sqlite.org/download.html).
